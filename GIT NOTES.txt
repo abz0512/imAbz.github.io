@@ -1,0 +1,38 @@
+GIT NOTES
+1. CONFIG EDITOR'S NAME
+git config --global user.name "Abz"
+
+2.CONFIG EMAIL
+git config --global user.email pendragon051288@gmail.com
+
+3. SET DEFAULT BRANCH NAME
+ git config --global int.default branch main
+
+4.CHANGE DIRECTORY
+C:\Users\abz05\Desktop\hmtlAnCss
+
+5. INITIALIZE GIT
+
+git init
+
+6. CHECK STATUS
+
+get status
+
+7. to add file
+
+git add <file>
+
+8.TO REMOVE FILE
+git rm --cached index.html
+
+9. TO COMMIT FILE
+
+git commit -m "First Commit"
+
+10. TO CHECK MODIFIED FILE
+git diff
+
+11. TO RESTORE FILE THAT IS NOT COMMITED
+git restore --staged <file>
+
